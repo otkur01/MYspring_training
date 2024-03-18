@@ -1,6 +1,5 @@
-package com.hekim.loosely_coupled.casefactory;
+package com.hekim.beanAnnotations.loosely_coupled.casefactory;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 

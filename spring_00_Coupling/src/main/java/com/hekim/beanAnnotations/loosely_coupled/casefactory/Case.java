@@ -1,4 +1,4 @@
-package com.hekim.loosely_coupled.casefactory;
+package com.hekim.beanAnnotations.loosely_coupled.casefactory;
 
 public abstract class Case {
 

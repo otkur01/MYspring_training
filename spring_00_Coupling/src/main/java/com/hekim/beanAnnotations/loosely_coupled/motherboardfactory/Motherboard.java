@@ -1,4 +1,4 @@
-package com.hekim.loosely_coupled.motherboardfactory;
+package com.hekim.beanAnnotations.loosely_coupled.motherboardfactory;
 
 public abstract class Motherboard {
 

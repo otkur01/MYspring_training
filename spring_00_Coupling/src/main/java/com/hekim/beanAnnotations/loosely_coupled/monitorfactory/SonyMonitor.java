@@ -1,6 +1,5 @@
-package com.hekim.loosely_coupled.monitorfactory;
+package com.hekim.beanAnnotations.loosely_coupled.monitorfactory;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 

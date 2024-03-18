@@ -1,4 +1,4 @@
-package com.hekim.tightly_coupled;
+package com.hekim.beanAnnotations.tightly_coupled;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

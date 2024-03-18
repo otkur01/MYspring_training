@@ -1,5 +1,6 @@
 package com.hekim.beanAnnotations.loosely_coupled.monitorfactory;
 
+
 public abstract class Monitor {
 
     private String model;

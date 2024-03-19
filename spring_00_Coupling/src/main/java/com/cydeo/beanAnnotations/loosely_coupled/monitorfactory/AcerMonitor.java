@@ -1,4 +1,4 @@
-package com.hekim.beanAnnotations.loosely_coupled.monitorfactory;
+package com.cydeo.beanAnnotations.loosely_coupled.monitorfactory;
 
 import lombok.Getter;
 import lombok.Setter;

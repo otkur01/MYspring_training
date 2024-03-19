@@ -1,4 +1,4 @@
-package com.hekim.beanAnnotations.config;
+package com.cydeo.beanAnnotations.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

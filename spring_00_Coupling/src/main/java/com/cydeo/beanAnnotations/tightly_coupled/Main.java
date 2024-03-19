@@ -1,4 +1,4 @@
-package com.hekim.beanAnnotations.tightly_coupled;
+package com.cydeo.beanAnnotations.tightly_coupled;
 
 public class Main {
 

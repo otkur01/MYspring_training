@@ -1,8 +1,8 @@
-package com.hekim.beanAnnotations.loosely_coupled;
+package com.cydeo.beanAnnotations.loosely_coupled;
 
-import com.hekim.beanAnnotations.loosely_coupled.casefactory.Case;
-import com.hekim.beanAnnotations.loosely_coupled.monitorfactory.Monitor;
-import com.hekim.beanAnnotations.loosely_coupled.motherboardfactory.Motherboard;
+import com.cydeo.beanAnnotations.loosely_coupled.casefactory.Case;
+import com.cydeo.beanAnnotations.loosely_coupled.monitorfactory.Monitor;
+import com.cydeo.beanAnnotations.loosely_coupled.motherboardfactory.Motherboard;
 
 
 public class PC {

@@ -1,4 +1,4 @@
-package com.hekim.beanAnnotations.loosely_coupled.motherboardfactory;
+package com.cydeo.beanAnnotations.loosely_coupled.motherboardfactory;
 
 public class AsusMotherboard extends Motherboard {
 

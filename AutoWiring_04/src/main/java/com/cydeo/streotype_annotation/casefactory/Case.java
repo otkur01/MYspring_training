@@ -14,7 +14,7 @@ public abstract class Case {
     private String manufacturer;
     private String powerSupply;
     @Autowired
-    private Demensions demensions;
+    private Dimensions dimensions;
 
     public Case(String model, String manufacturer, String powerSupply) {
         this.model = model;

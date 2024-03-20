@@ -10,13 +10,14 @@ import org.springframework.stereotype.Component;
 @Setter
 @AllArgsConstructor
 @Component
-public class Demensions {
+public class Dimensions {
 
     private int width;
 
     private int height;
     private int depth;
-    public Demensions() {
+
+    public Dimensions() {
         this.width=10;
         this.height=30;
         this.depth=40;

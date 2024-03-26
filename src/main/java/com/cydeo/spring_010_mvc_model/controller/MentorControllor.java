@@ -20,12 +20,12 @@ public class MentorControllor {
             Mentor mentor2 =new Mentor("salim","kazim",20,Gender.MALE);
 
             Mentor mentor3 =new Mentor("ibrahim","otkur",10,Gender.MALE);
-
+        Mentor mentor4 =new Mentor("ibrahim","otkur",10,Gender.MALE);
           mentorList.add(mentor1);
           mentorList.add(mentor2);
           mentorList.add(mentor3);
           model.addAttribute("mentors",mentorList);
-
+         // model.addAttribute("monter4",mentor4);
         return "mentor/Mentor";
     }
 }

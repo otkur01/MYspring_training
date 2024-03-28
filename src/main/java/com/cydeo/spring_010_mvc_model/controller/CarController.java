@@ -31,9 +31,9 @@ public class CarController {
     }
     @RequestMapping("info/{make}/{year}")
     public String getCarInfo(@PathVariable String make, @PathVariable int year){
-
-        System.out.println(make);
-        System.out.println(year);
+//
+//        System.out.println(make);
+//        System.out.println(year);
 
         return "car/carInfo";
     }
